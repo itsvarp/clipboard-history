@@ -1,4 +1,4 @@
-# Clipboard History
+# Clipboard History omarchy plugin
 
 A clipboard history popup for Omarchy. It saves text, links, code snippets, and common image formats. Press **Super+V** to open it beside the pointer. The Omarchy bar icon opens a compact settings panel.
 
